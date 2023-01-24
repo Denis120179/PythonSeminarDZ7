@@ -10,10 +10,11 @@ def start():
         export_data.print_data()
     if action == 6:
         export_data.print_name()
-    #if action == 7:
-        #export_data.sort_name()
-    #if action == 8:
-        #export_data.sort_id()
+    if action == 7:
+        export_data.sort_name()
+    if action == 8:
+        export_data.sort_id()
+        
     
     
     
