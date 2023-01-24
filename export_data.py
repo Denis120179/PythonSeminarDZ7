@@ -15,7 +15,7 @@ def sort_name():
         stroka3 = file.readlines()
         array3 = []
         for stroka in stroka3:
-            a = stroka.split(",")
+            a = stroka.strip().split(",")
             array3.append(a)
         array3 = sorted(array3, key = lambda x: x[1]) 
         
@@ -34,7 +34,7 @@ def sort_id():
         stroka5 = file.readlines()
         array5 = []
         for stroka in stroka5:
-            a = stroka.split(",")
+            a = stroka.strip().split(",")
             array5.append(a)
         array5 = sorted(array5, key = lambda x: x[0]) 
         

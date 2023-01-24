@@ -1,16 +1,4 @@
-
-
-
-
-
-
-
-
-1, Denis, Maevsky, 456778, dz 
-
-2, Sergey, Rakitin, 887655, ooo 
-
-3, Viktor, Surkov, 789906, yyy 
-
-4, Anton, Bolotov, 4565332, rrf 
-
+1, Denis, Maevsky, 12345, qqq
+2, Sergey, Rakitin, 23456, wsde
+3, Viktor, Dubov, 76767, ytyt
+4, Anton, Bolotov, 909887, mnbh
